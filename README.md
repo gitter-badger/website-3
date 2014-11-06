@@ -1,4 +1,5 @@
 # Meteor Meetup Website
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mrvictorn/website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is a Meteor App that can be used to organize, manage, and market your Meetup group. It was built by the [Meteor Vegas Meetup Group](http://vegas.meteor.com).
 
